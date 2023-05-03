@@ -67,7 +67,7 @@ class _CheckBoxsState extends State<CheckBoxs> {
                       });
                     },
                   ),
-                  Text("여성")
+                  Text("여성", ),
                 ],
               ),
             ),
